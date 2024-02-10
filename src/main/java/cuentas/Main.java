@@ -18,7 +18,7 @@ public class Main {
         try {
             miCuenta.retirar(cantidad);
         } catch (Exception e) {
-            System.out.print("Fallo al retirar. ");
+            System.out.print("Fallo al retirar. Hola2");
         }
         try {
             System.out.println("Ingreso en cuenta");
