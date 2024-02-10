@@ -18,11 +18,12 @@ public class Main {
         try {
             miCuenta.retirar(cantidad);
         } catch (Exception e) {
-            System.out.print("Fallo al retirar. Hola compi12");
+            System.out.print("Fallo al retirar. Hola compi1" +
+                    "2");
         }
         try {
             System.out.println("Ingreso en cuenta");
-            miCuenta.ingresar(695);
+            miCuenta.ingresar(700);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
         }
