@@ -5,7 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
 
-        operativa_cuenta(2300);
+        operativa_cuenta(2300)     ;
+
+
     }
 
     private static void operativa_cuenta(float cantidad) {
