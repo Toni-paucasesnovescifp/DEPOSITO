@@ -11,7 +11,7 @@ public class CCuenta {
      */
     private String nombre;
     /**
-     * aquí s'hi registra el número de compte
+     * aquí s'hi registra el número de comptes
      */
     private String cuenta;
     /**
